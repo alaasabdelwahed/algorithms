@@ -4,3 +4,4 @@ target/*
 .DS_store
 .classpath
 .project
+bin/*
